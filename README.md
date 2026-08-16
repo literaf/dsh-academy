@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ai4scholar.net?src=dsh"><img src="https://raw.githubusercontent.com/literaf/ai4scholar-plugin-dsh/main/docs/logo.svg" width="110" alt="AI4Scholar"></a></p>
+<p align="center"><a href="https://ai4scholar.net?src=dsh"><img src="https://raw.githubusercontent.com/literaf/dsh-ai4scholar/main/docs/logo.svg" width="110" alt="AI4Scholar"></a></p>
 <p align="center"><strong>dsh-academy</strong></p>
 
 # Academic mode for DeepSeek Harness
@@ -39,7 +39,7 @@ dsh web
 
 ## Works well with
 
-- [`dsh-ai4scholar`](https://github.com/literaf/ai4scholar-plugin-dsh) — 38 literature tools (Semantic Scholar, PubMed, Google Scholar, arXiv, bioRxiv/medRxiv, DOI full text, auto-cite, figures). The integrity rules are only enforceable when the agent can actually look papers up.
+- [`dsh-ai4scholar`](https://github.com/literaf/dsh-ai4scholar) — 38 literature tools (Semantic Scholar, PubMed, Google Scholar, arXiv, bioRxiv/medRxiv, DOI full text, auto-cite, figures). The integrity rules are only enforceable when the agent can actually look papers up.
 - [`dsh-research`](https://github.com/literaf/dsh-research) — the research skill pack (peer review, introductions, formatting, reference audit).
 - [`dsh-research-hub`](https://github.com/literaf/dsh-research-hub) — the index of research plugins for dsh.
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ai4scholar.net?src=dsh"><img src="https://raw.githubusercontent.com/literaf/ai4scholar-plugin-dsh/main/docs/logo.svg" width="110" alt="AI4Scholar"></a></p>
+<p align="center"><a href="https://ai4scholar.net?src=dsh"><img src="https://raw.githubusercontent.com/literaf/dsh-ai4scholar/main/docs/logo.svg" width="110" alt="AI4Scholar"></a></p>
 <p align="center"><strong>dsh-academy</strong></p>
 
 # DeepSeek Harness 学术模式
@@ -39,7 +39,7 @@ dsh web
 
 ## 建议搭配
 
-- [`dsh-ai4scholar`](https://github.com/literaf/ai4scholar-plugin-dsh) —— 38 个文献工具（Semantic Scholar、PubMed、Google Scholar、arXiv、bioRxiv/medRxiv、DOI 全文、自动引用、科研绘图）。**只有当 Agent 真能查到论文时，"不许编造引用"才是可执行的要求**。
+- [`dsh-ai4scholar`](https://github.com/literaf/dsh-ai4scholar) —— 38 个文献工具（Semantic Scholar、PubMed、Google Scholar、arXiv、bioRxiv/medRxiv、DOI 全文、自动引用、科研绘图）。**只有当 Agent 真能查到论文时，"不许编造引用"才是可执行的要求**。
 - [`dsh-research`](https://github.com/literaf/dsh-research) —— 科研技能套件（审稿、引言、排版、参考文献审计）。
 - [`dsh-research-hub`](https://github.com/literaf/dsh-research-hub) —— dsh 科研插件索引。
 
