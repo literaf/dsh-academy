@@ -1,0 +1,14 @@
+# dsh-academy bundle layer: one row, prompt sections only.
+#
+#   dsh plugin --profile web add dsh-academy
+#
+# Override from the profile's own cordis.patch.yml (a patch replaces the whole
+# `config`, so restate every key you keep):
+#
+#   - id: academy
+#     config:
+#       field: 分子生物学
+#       language: false
+- insert:
+    - id: academy
+      name: dsh-academy
