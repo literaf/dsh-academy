@@ -41,7 +41,7 @@ dsh web
 
 - [`dsh-ai4scholar`](https://github.com/literaf/dsh-ai4scholar) — 38 literature tools (Semantic Scholar, PubMed, Google Scholar, arXiv, bioRxiv/medRxiv, DOI full text, auto-cite, figures). The integrity rules are only enforceable when the agent can actually look papers up.
 - [`dsh-research`](https://github.com/literaf/dsh-research) — the research skill pack (peer review, introductions, formatting, reference audit).
-- [`dsh-research-hub`](https://github.com/literaf/dsh-research-hub) — the index of research plugins for dsh.
+- [`dsh-slides`](https://github.com/literaf/dsh-slides) — writes a talk to a self-contained HTML deck, plus `.pptx` when someone else has to open it.
 
 ## License
 

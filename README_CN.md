@@ -41,7 +41,7 @@ dsh web
 
 - [`dsh-ai4scholar`](https://github.com/literaf/dsh-ai4scholar) —— 38 个文献工具（Semantic Scholar、PubMed、Google Scholar、arXiv、bioRxiv/medRxiv、DOI 全文、自动引用、科研绘图）。**只有当 Agent 真能查到论文时，"不许编造引用"才是可执行的要求**。
 - [`dsh-research`](https://github.com/literaf/dsh-research) —— 科研技能套件（审稿、引言、排版、参考文献审计）。
-- [`dsh-research-hub`](https://github.com/literaf/dsh-research-hub) —— dsh 科研插件索引。
+- [`dsh-slides`](https://github.com/literaf/dsh-slides) —— 把报告写成自包含 HTML 放映页；需要别人打开时再附一份 `.pptx`。
 
 ## 许可证
 
